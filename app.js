@@ -1,4 +1,5 @@
-apex-radar-production.up.railway.app
+
+const API_BASE_URL = 'https://apex-radar-production.up.railway.app';
 let modoDemoActivo = false;
 
 // 🚗 DICCIONARIO DINÁMICO DE MARCAS Y MODELOS (Para no meter nombres rotos)
